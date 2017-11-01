@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
   },
   text: {
     backgroundColor: 'transparent',
-    color: '#b2b2b2',
+    color: '#fff',
     fontSize: 12,
     fontWeight: '600',
   },
