@@ -110,11 +110,11 @@ const styles = {
     container: {
     },
     text: {
-      color: 'black',
+      color: '#9CB5CD',
       ...textStyle,
     },
     link: {
-      color: 'black',
+      color: '#9CB5CD',
       textDecorationLine: 'underline',
     },
   }),
