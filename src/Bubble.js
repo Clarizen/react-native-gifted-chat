@@ -151,7 +151,7 @@ const styles = {
     },
     wrapper: {
       borderRadius: 15,
-      backgroundColor: '#f0f0f0',
+      backgroundColor: '#E7F0F9',
       marginRight: 60,
       minHeight: 20,
       justifyContent: 'flex-end',
@@ -170,7 +170,7 @@ const styles = {
     },
     wrapper: {
       borderRadius: 15,
-      backgroundColor: '#FFF9C9',
+      backgroundColor: '#2B4A78',
       marginLeft: 60,
       minHeight: 20,
       justifyContent: 'flex-end',
